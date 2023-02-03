@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juliosantoswork
 - 👀 I’m interested in Space Engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on Space Projects
 - 📫 How to reach me juliosantoswork@gmail.com
 
